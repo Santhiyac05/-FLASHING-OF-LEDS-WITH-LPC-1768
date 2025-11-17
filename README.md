@@ -87,6 +87,7 @@ https://github.com/user-attachments/assets/31cb3767-921c-4db0-9043-3942b8bcdad1
 
 
 RESULT:
+
 Thus, a LED is interfaced and toggled with ARM LPC1768 Microprocessor.
 
 
